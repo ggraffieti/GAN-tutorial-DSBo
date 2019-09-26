@@ -11,4 +11,4 @@ The code is inspired by the amazing work by Diego Gomez Mosquera [article](https
 
 -----
 
-The slides of the talk can be downloaded [here](https://www.slideshare.net/GabrieleGraffieti/from-art-to-deepfakes-an-introduction-to-generative-adversarial-networks)
+The slides of the talk can be downloaded from [here](https://www.slideshare.net/GabrieleGraffieti/from-art-to-deepfakes-an-introduction-to-generative-adversarial-networks)
