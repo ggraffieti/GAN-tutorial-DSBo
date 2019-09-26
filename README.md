@@ -7,6 +7,10 @@ To run the code:
 - Navigate to the `vanilla_gan_pytorch.ipynb` file, and open it from the browser.
 - Run all the section and see the results (it may take a while if you don't have a GPU). 
 
+The code is inspired by the amazing work of Diego Gomez Mosquera [article](https://medium.com/ai-society/gans-from-scratch-1-a-deep-introduction-with-code-in-pytorch-and-tensorflow-cb03cdcdba0f) [code](https://github.com/diegoalejogm/gans)
+
 -----
 
 The slides of the talk can be downloaded [here](www.google.com)
+
+----
